@@ -1,0 +1,15 @@
+{
+    "status": false,
+    "A_Press": "a",
+    "B_Press": "b",
+    "X_Press": "x",
+    "Y_Press": "y",
+    "L_Press": "l",
+    "R_Press": "r",
+    "UP_Press": "up",
+    "DOWN_Press": "down",
+    "LEFT_Press": "left",
+    "RIGHT_Press": "right",
+    "Start_Press": "return",
+    "Back_Press": "backspace"
+}
